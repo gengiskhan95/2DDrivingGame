@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerCar
+  - Overtake
+  - Undefined
+  - NpcCar
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - NpcCar
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 581774921
+    locked: 0
+  - name: Road
+    uniqueID: 3427927541
+    locked: 0
+  - name: Enviornemnt
+    uniqueID: 2052473861
+    locked: 0
+  - name: NpcCar
+    uniqueID: 4048542485
+    locked: 0
+  - name: PlayerCar
+    uniqueID: 73022493
+    locked: 0
+  - name: Shadow
+    uniqueID: 2119045151
+    locked: 0
+  - name: Canvas
+    uniqueID: 2280777429
+    locked: 0

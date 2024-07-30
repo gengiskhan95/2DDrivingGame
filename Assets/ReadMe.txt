@@ -1,8 +1,4 @@
 
-Merhaba,
-
-Bu oyunun temel yapisini ve gorsel assetleri Berka'nin YouTube kanalindan aldim. Tum gelistirme ise tamamen bana aittir.
-
 Nasil Oynanir?
 
 Bilgisayar Kontrolleri
@@ -25,4 +21,4 @@ Hizli Gitmek: Arabanizi hizli surmek, onunuze cikan arabalara carpmak riskini ar
 Ek Bilgiler
 Kontroller: Player car uzerinde hem mobil hem de PC icin iki farkli kontrol secenegi bulunmaktadir. Istediginiz kontrol tipini aktif ederek oyunu oynayabilirsiniz.
 
-Tesekkurler ve iyi oyunlar! Dikkatli olun ve keyifli vakit gecirin!
+Tesekkurler ve iyi oyunlar!
